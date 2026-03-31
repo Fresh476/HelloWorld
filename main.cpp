@@ -10,5 +10,6 @@ int main()
 {
 	printf("This is a HelloWorld!\n");
 	fun();
+	printf("ubuntu.\n");
 	return 0;
 }
