@@ -10,5 +10,6 @@ int main()
 {
 	printf("This is a HelloWorld!\n");
 	fun();
+	printf("windows.\n");
 	return 0;
 }
