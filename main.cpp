@@ -10,6 +10,7 @@ int main()
 {
 	printf("This is a HelloWorld!\n");
 	fun();
-	printf("windows.\n");
+	printf("ubuntu.\n");
+	printf("new windows.\n");
 	return 0;
 }
