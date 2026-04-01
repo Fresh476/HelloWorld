@@ -7,11 +7,7 @@ void fun(){
 }
 
 void win_branch(){
-<<<<<<< HEAD
 	printf("This is win_branch.\n");
-=======
-	printf("This is win_branch.\n");	
->>>>>>> winbranch
 }
 
 int main()
